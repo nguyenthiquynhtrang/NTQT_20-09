@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DemoMVC
 build_property.RootNamespace = DemoMVC
-build_property.ProjectDir = C:\Users\Home\Documents\NetCore\DemoMVC\
+build_property.ProjectDir = c:\Users\Home\Documents\NetCore\DemoMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Home\Documents\NetCore\DemoMVC
+build_property.MSBuildProjectDirectory = c:\Users\Home\Documents\NetCore\DemoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Demo/Create.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Demo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Demo/index.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Demo/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Employee/Index.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Home/Index.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Person/Index.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Shared/Error.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Student/Create.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Student/Index.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/_ViewImports.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/_ViewStart.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Documents/NetCore/DemoMVC/Views/Shared/_Layout.cshtml]
+[c:/Users/Home/Documents/NetCore/DemoMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hzgfhw30l6
